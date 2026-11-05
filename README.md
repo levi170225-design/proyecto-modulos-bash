@@ -43,8 +43,8 @@ Reemplazar `nombre_script.sh` por el nombre del archivo correspondiente.
 
 ## . Integrantes
 
-- **Integrante 1:** [lima].
-- **Integrante 2:** [anyosa].
+- **Integrante 1:** lima.
+- **Integrante 2:** anyosa.
 
 ## . Repositorio
 
